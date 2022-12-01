@@ -14,6 +14,13 @@ This main repository ["DotNetCorePath"](https://github.com/celikbet/DotNetCorePa
     * Type Conversions
     * Try-Catch-Finally
     * If-ElseIf-TernaryIf
+    * Switch-Case
+    * For Loop & Break & Continue
+    * While & Foreach
+    * Series With Loops
+    * Series With Array Class Methods
+    * Methods
+    * Methods Overloading
 
 
 [Betul Celik Cetin](https://app.patika.dev/celikbet)
