@@ -23,6 +23,9 @@ This main repository ["DotNetCorePath"](https://github.com/celikbet/DotNetCorePa
     * Methods Overloading
     * Recursive & Extension Methods
     * Homework 1
+    * C# Methods String
+    * C# Methods Datetime & Math Classes
+    * Collections - Advantages & Disadvantages
 
 
 [Betul Celik Cetin](https://app.patika.dev/celikbet)
