@@ -22,6 +22,7 @@ This main repository ["DotNetCorePath"](https://github.com/celikbet/DotNetCorePa
     * Methods
     * Methods Overloading
     * Recursive & Extension Methods
+    * Homework 1
 
 
 [Betul Celik Cetin](https://app.patika.dev/celikbet)
