@@ -26,6 +26,10 @@ This main repository ["DotNetCorePath"](https://github.com/celikbet/DotNetCorePa
     * C# Methods String
     * C# Methods Datetime & Math Classes
     * Collections - Advantages & Disadvantages
+    * Generic Collections - List
+    * Collection - ArrayList
+    * Collection - Dictionary
+    * Homework 2
 
 
 [Betul Celik Cetin](https://app.patika.dev/celikbet)
