@@ -31,7 +31,7 @@ namespace collectionsArrayList {
 
             // Sort
             Console.WriteLine("****** Sort ******");
-            //list.Sort(); // throws an error on compile time since all element can't be sorted!
+            //list.Sort(); // throws an error on run time since all element can't be sorted!
 
             ArrayList numberList = new ArrayList();
             numberList.AddRange(numbers);
