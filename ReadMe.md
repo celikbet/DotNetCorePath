@@ -30,6 +30,10 @@ This main repository ["DotNetCorePath"](https://github.com/celikbet/DotNetCorePa
     * Collection - ArrayList
     * Collection - Dictionary
     * Homework 2
+    * Class - Instance & Field & Property
+    * Class - Access Modifiers & Constructor Methods
+    * Class - Encapsulation & Property
+    * Class - Static Class & Components
 
 
 [Betul Celik Cetin](https://app.patika.dev/celikbet)
