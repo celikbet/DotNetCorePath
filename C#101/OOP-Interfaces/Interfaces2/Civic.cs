@@ -4,7 +4,8 @@ namespace Interfaces2 {
 
     public class Civic : IVehicle
     {
-        public int HowManyWhell()
+
+        public int HowManyWheels()
         {
             return 4;
         }

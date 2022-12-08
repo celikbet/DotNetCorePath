@@ -4,7 +4,7 @@ namespace Interfaces2 {
 
     public interface IVehicle {
 
-        int HowManyWhell();
+        int HowManyWheels();
         Make WhichCompanyCar();
         Color WhatIsDefaultColor();
 

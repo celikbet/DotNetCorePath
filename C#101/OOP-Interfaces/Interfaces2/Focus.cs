@@ -4,7 +4,7 @@ namespace Interfaces2 {
 
     public class Focus : IVehicle
     {
-        public int HowManyWhell()
+        public int HowManyWheels()
         {
             return 4;
         }
