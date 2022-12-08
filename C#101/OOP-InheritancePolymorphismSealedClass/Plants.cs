@@ -1,12 +1,18 @@
 using System;
 
-namespace oopInheritance
+namespace OOPInheritancePolymorphismSealedClass
 {
 
     public class Plants: LivingThings
     {
         protected void PhotoSynthesis() {
             Console.WriteLine("Plants photosynthesize.");
+        }
+
+        public override void ReactionToStimuli()
+        {
+            //base.ReactionToStimuli();
+            Console.WriteLine("Plants react to the Sun.");
         }
     }
 
@@ -16,6 +22,7 @@ namespace oopInheritance
             base.Nutrition();
             base.Respiratory();
             base.Excretion();
+            base.ReactionToStimuli();
         }
 
         public void SeedProduce() {

@@ -1,12 +1,18 @@
 using System;
 
-namespace oopInheritance
+namespace OOPInheritancePolymorphismSealedClass
 {
 
     public class Animals: LivingThings
     {
         protected void Adaptation() {
             Console.WriteLine("Animals adapt.");
+        }
+
+        public override void ReactionToStimuli()
+        {
+            base.ReactionToStimuli();
+            Console.WriteLine("Animals react to stimuli.");
         }
     }
 
@@ -31,6 +37,7 @@ namespace oopInheritance
             base.Nutrition();
             base.Respiratory();
             base.Excretion();
+            base.ReactionToStimuli();
         }
         public void fly() {
             Console.WriteLine("Birds fly.");

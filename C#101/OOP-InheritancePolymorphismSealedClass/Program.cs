@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace oopInheritance
+namespace OOPInheritancePolymorphismSealedClass
 {
 
     class Program
@@ -23,8 +23,5 @@ namespace oopInheritance
             seagull.fly();
 
         }
-
-
     }
-
 }
