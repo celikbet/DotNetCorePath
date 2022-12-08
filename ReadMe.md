@@ -34,6 +34,11 @@ This main repository ["DotNetCorePath"](https://github.com/celikbet/DotNetCorePa
     * Class - Access Modifiers & Constructor Methods
     * Class - Encapsulation & Property
     * Class - Static Class & Components
+    * OOP - Object Oriented Programming and Its Principles
+    * OOP - Inheritance
+    * OOP - Polymorphism & Sealed Class
+    * OOP - Interface
+    * OOP - Abstract Class
 
 
 [Betul Celik Cetin](https://app.patika.dev/celikbet)
